@@ -2,6 +2,7 @@
   "name": "fei",
   "version": "0.0.1",
   "scripts": {
+    "netlify": "npm install & npm run dev",
     "dev": "svelte-kit dev",
     "build": "svelte-kit build",
     "preview": "svelte-kit preview",
